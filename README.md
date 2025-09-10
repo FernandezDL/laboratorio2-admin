@@ -1,3 +1,3 @@
 # laboratorio2-admin
 
-<!-- trigger CI -->
+<!-- trigger CI 2 -->
