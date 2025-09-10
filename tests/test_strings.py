@@ -1,4 +1,4 @@
 def test_reverse_trampa():
     # reverse("abc") NO es "abc"
     from textlib import reverse
-    assert reverse("abc") == "abc"
+    assert reverse("abc") == "cba"
